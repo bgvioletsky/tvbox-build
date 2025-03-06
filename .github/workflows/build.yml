@@ -20,8 +20,8 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - userName: q215613905
-            repoUrl: https://github.com/q215613905/TVBoxOS
+          - userName: bgvioletsky
+            repoUrl: https://github.com/bgvioletsky/TVBoxOS
             branchName: main
             javaVersion: 8
           - userName: takagen99
